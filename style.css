@@ -248,7 +248,7 @@
     width: 100%;
     height: 110vh;
     margin-top: 65rem;
-    background: #f1efed;
+    background: #db7d1f;
     z-index: -1;
 }
 .sec5 h1{
@@ -301,8 +301,10 @@
     color: #cf7b1a;
 }
 .even-btn{
-    padding: 15px;
-    width: 100px;
+    padding: 19px;
+    width: 150px;
+    height: 20vh;
+    background-color: #fff;
     margin: -2.4rem auto;
 }
 .btn-plus{
