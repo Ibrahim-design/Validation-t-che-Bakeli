@@ -304,8 +304,11 @@
     padding: 19px;
     width: 150px;
     height: 22vh;
-    background-color: #fff;
+    /* background-color: #fff; */
     margin: -2.4rem auto;
+}
+.btn-plus:hover{
+    background-color: #27a49e;
 }
 .btn-plus{
     width: 120px;
@@ -331,7 +334,7 @@
     text-align: center;
 }
 .temoign{
-    width: 30%;
+    width: 32%;
     /* box-shadow: 2px 3px 3px gray; */
     height: 35vh;
     margin: 20px 40px;
@@ -345,6 +348,7 @@
 }
 .text-temoign p{
     text-align: justify;
+    font-size: 18px;
 }
 .moi-temoign{
     display: flex;
