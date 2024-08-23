@@ -315,6 +315,7 @@
     border-style: none;
     color: white;
     cursor: pointer;
+    z-index: 1;
 }
 .sec6{
     position: absolute;
